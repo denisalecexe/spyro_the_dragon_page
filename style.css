@@ -1,0 +1,21 @@
+body {
+  background-color: violet;
+}
+
+.title-one {
+  font-size: 45px;
+}
+
+.middle-title {
+  font-size: 22px;
+}
+
+.title-one,
+.middle-title {
+  font-family:Arial, Helvetica, sans-serif ;
+}
+
+.text {
+  font-family: monospace;
+  font-size: 15px;
+}
